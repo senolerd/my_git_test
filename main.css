@@ -10,6 +10,14 @@ header {
 }
 
 
+footer {
+    background-color: white;
+    padding: 1.5rem 1.5rem 1.5rem 1rem;
+    font-size: 1.3rem;
+    color: rgb(192, 12, 12);
+}
+
+
 .big_header {
     color:rgb(255, 0, 0);   
 }
