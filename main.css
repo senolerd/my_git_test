@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(48, 44, 44);
+    padding: 3rem;
+}
+
+.big_header {
+    color:rgb(255, 0, 0);   
+}
+
+.explain {
+    color: green;
+}
